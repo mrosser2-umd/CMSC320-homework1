@@ -3,3 +3,8 @@ A merge is when you take two differing versions of the same thing and combine
 them into one, resolving any conflicts that may come up. A rebase does the
 same thing except it functions as if you had started with the other version 
 and made your changes on top of that.
+
+What is a remote repository?
+A remote repository is a place for your files to be stored, separate from your
+local machine. This allows multiple people to access your project at once and
+allows for easier collaboration and version control.
